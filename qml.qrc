@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>line_fs.glsl</file>
+        <file>line_vs.glsl</file>
+        <file>textured_vs.glsl</file>
+        <file>textured_fs.glsl</file>
+        <file>HelveticaNeueCyr-Bold.ttf</file>
+        <file>HelveticaNeueCyr-Roman.ttf</file>
+        <file>textured_gs.glsl</file>
+        <file>line_gs.glsl</file>
+        <file>object_vs.glsl</file>
+        <file>object_fs.glsl</file>
+    </qresource>
+</RCC>
